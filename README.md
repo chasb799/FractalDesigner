@@ -1,2 +1,2 @@
 # FractalDesigner
-Fractal Designer using C#, WPF and XAML.
+Fractal Designer using C#, WPF and XAML. Unfortunately, the software doesn't work...
